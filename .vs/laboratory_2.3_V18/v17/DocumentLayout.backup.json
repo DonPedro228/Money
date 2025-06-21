@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Student\\OOP_18\\laboratory_2.3_V18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F661F99F-C203-F73A-24CF-E4A7767A0C56}|..\\Unit_V18_2.3\\Unit_V18_2.3.vcxproj|D:\\Student\\OOP_18\\Unit_V18_2.3\\Unit_V18_2.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC044CB2-30CC-46BA-A58E-0F1F50FF684D}|laboratory_2.3_V18.vcxproj|D:\\Student\\OOP_18\\laboratory_2.3_V18\\Money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC044CB2-30CC-46BA-A58E-0F1F50FF684D}|laboratory_2.3_V18.vcxproj|solutionrelative:Money.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC044CB2-30CC-46BA-A58E-0F1F50FF684D}|laboratory_2.3_V18.vcxproj|D:\\Student\\OOP_18\\laboratory_2.3_V18\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC044CB2-30CC-46BA-A58E-0F1F50FF684D}|laboratory_2.3_V18.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC044CB2-30CC-46BA-A58E-0F1F50FF684D}|laboratory_2.3_V18.vcxproj|D:\\Student\\OOP_18\\laboratory_2.3_V18\\Money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC044CB2-30CC-46BA-A58E-0F1F50FF684D}|laboratory_2.3_V18.vcxproj|solutionrelative:Money.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit_V18_2.3.cpp",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\Unit_V18_2.3\\Unit_V18_2.3.cpp",
+              "RelativeDocumentMoniker": "..\\Unit_V18_2.3\\Unit_V18_2.3.cpp",
+              "ToolTip": "D:\\Student\\OOP_18\\Unit_V18_2.3\\Unit_V18_2.3.cpp*",
+              "RelativeToolTip": "..\\Unit_V18_2.3\\Unit_V18_2.3.cpp*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T12:17:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\laboratory_2.3_V18\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Student\\OOP_18\\laboratory_2.3_V18\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T11:59:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Money.cpp",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\laboratory_2.3_V18\\Money.cpp",
+              "RelativeDocumentMoniker": "Money.cpp",
+              "ToolTip": "D:\\Student\\OOP_18\\laboratory_2.3_V18\\Money.cpp",
+              "RelativeToolTip": "Money.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-21T11:19:42.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Money.h",
+              "DocumentMoniker": "D:\\Student\\OOP_18\\laboratory_2.3_V18\\Money.h",
+              "RelativeDocumentMoniker": "Money.h",
+              "ToolTip": "D:\\Student\\OOP_18\\laboratory_2.3_V18\\Money.h",
+              "RelativeToolTip": "Money.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-21T11:03:55.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
